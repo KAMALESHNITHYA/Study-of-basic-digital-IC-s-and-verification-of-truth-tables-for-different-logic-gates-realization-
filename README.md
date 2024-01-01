@@ -58,10 +58,14 @@ Connect the supply (+5V) to the circuit Switch ON the main switch Press the swit
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 ![image](https://github.com/KAMALESHNITHYA/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145743119/ee5a7f49-d2da-488c-a51d-9f3b8d573006)
 
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
+## RTL realization:
+![image](https://github.com/KAMALESHNITHYA/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145743119/64f30b8d-1fea-476e-90df-93252529f0a2)
 
-Result:
+## Truth Table:
+![image](https://github.com/KAMALESHNITHYA/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145743119/22fa25c7-8efd-48a1-ace8-c1dc872a8d25)
+
+## Output:
+![image](https://github.com/KAMALESHNITHYA/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145743119/a3aaee74-82f1-40da-9914-1dd3d9085244)
+
+## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
