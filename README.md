@@ -56,7 +56,7 @@ Connect the supply (+5V) to the circuit Switch ON the main switch Press the swit
 
 ## Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-![291005373-bfcb7ef7-fa6a-49a9-ad00-48a222e4a99a]
+![image](https://github.com/KAMALESHNITHYA/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145743119/ee5a7f49-d2da-488c-a51d-9f3b8d573006)
 
 Logic symbol & Truthtable
 RTL realization
